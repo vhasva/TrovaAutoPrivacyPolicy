@@ -1,7 +1,7 @@
 # Norme sulla privacy di Trova Auto
 
 Trova Auto accede ai dati relativi alla posizione gps per offrire il nostro servizio di salvataggio del parcheggio.
-La posizione del parcheggio viene salvata solo sul proprio dispositivo e non viene condivisa con terzi. Per le mappe utilizziamo un servizio di terze parti, Mapbox, pertanto ti invitiamo a controllare le norme sulla privacy riguardanti i servizi di terze parti che troverai nelle sezioni seguenti.
+La posizione del parcheggio viene salvata solo sul proprio dispositivo e non viene condivisa con terzi. Per le mappe utilizziamo un servizio di terze parti, Google Maps, pertanto ti invitiamo a controllare le norme sulla privacy riguardanti i servizi di terze parti che troverai nelle sezioni seguenti.
 Se hai ulteriori domande o desideri maggiori informazioni sulla nostra informativa sulla privacy, non esitare a contattarci.
 
 ## I nostri partner pubblicitari
@@ -20,8 +20,8 @@ Tieni presente che Trova Auto non ha accesso o controllo su questi cookie utiliz
 
 Trova Auto fa utilizzo di sevizi di terze parti. Pertanto, ti consigliamo di consultare le rispettive informative sulla privacy per informazioni più dettagliate. Può includere le loro pratiche e istruzioni su come rinunciare a determinate opzioni.
 
-    • Mapbox
-            https://www.mapbox.com/legal/privacy
+    • Google Maps
+            https://policies.google.com/privacy?hl=en-US
             
 ## Informazioni Per Bambini
 
